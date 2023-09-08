@@ -1,0 +1,3 @@
+# ignore terraform output files
+*.tfstate
+*.tfvars
